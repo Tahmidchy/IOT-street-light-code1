@@ -33,4 +33,6 @@ To provide a small overview, the 3 main modes are the following.
         DOCKER_INFLUXDB_INIT_MODE=setup   
         DOCKER_INFLUXDB_INIT_USERNAME=street-lights-iot  
         DOCKER_INFLUXDB_INIT_PASSWORD=password  
-        DOCKER_INFLUXDB_INIT_ORG=street-lights-iot  
+        DOCKER_INFLUXDB_INIT_ORG=street-lights-iot
+   <img width="1238" height="718" alt="image" src="https://github.com/user-attachments/assets/37edb827-fb72-431f-b3db-5b563f85179e" />
+
